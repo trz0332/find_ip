@@ -1,6 +1,6 @@
 # 主要用于运维过程中一些老设备找不到IP地址，可以用此工具，找到该设备IP或者是否处于DHCP状态  
 准备工作，电脑网口直连设备网口  
-1、安装npcap软件  https://nmap.org/npcap/安装npcap软件   
+1、安装npcap软件  https://nmap.org/npcap/  
 2、打开软件  
 3、选择网卡  
 4、软件抓包，如果该设备已经设置IP地址，可以通过ARP包中的who is来找到该IP地址  
